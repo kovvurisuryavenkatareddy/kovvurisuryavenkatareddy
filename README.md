@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/surya-venkata-reddy-kovvuri-736861250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya venkata reddy kovvuri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/surya-venkata-reddy-kovvuri-736861250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/surya-venkata-reddy-kovvuri-736861250/" height="30" width="40" /></a>
 <a href="https://instagram.com/k.surya.v.reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k.surya.v.reddy" height="30" width="40" /></a>
-<a href="https://youtube.com/@kovvurisuryavenkatareddy1981?si=Kip8nf3X-udrjwGh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@kovvurisuryavenkatareddy1981?si=urstmxpiexcuuxq7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/suryavenkatared1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@suryavenkatared1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@kovvurisuryavenkatareddy1981?si=kip8nf3x-udrjwgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@kovvurisuryavenkatareddy1981?si=kip8nf3x-udrjwgh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@suryavenkatared1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@suryavenkatared1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
