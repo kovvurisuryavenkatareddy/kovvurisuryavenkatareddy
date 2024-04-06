@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="MasterHead" height="600px" width="100%">
+<img src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif" alt="MasterHead" width="100%">
 
 <h1 align="center">Hi 👋, I'm KOVVRUI SURYA VENKATA REDDY</h1>
 <h3 align="center">I'm a passionate web developer with expertise in Python, JavaScript, HTML, CSS, React, and Node.js. I enjoy building scalable web applications and crafting user-friendly interfaces.</h3>
