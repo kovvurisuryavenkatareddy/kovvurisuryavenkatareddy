@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Mongodb, Express, React, Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://ksvreddy-portfolio.netlify.app/](https://ksvreddy-portfolio.netlify.app/)
+- 👨‍💻 My portfolio are available at [https://ksvreddy-portfolio.netlify.app/](https://ksvreddy-portfolio.netlify.app/)
 
 - 💬 Ask me about **Python, Nodejs and React**
 
 - 📫 How to reach me **suryavenkatareddy90@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact  **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
