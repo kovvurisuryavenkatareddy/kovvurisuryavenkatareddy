@@ -1,24 +1,26 @@
 <img src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif" alt="MasterHead" width="100%" />
 
-<h1 align="center">Hi 👋, I'm KOVVURI SURYA VENKATA REDDY</h1>
-<h3 align="center">I'm a passionate web developer with expertise in Python, JavaScript, HTML, CSS, React, and Node.js. I enjoy building scalable web applications and crafting user-friendly interfaces.</h3> 
+<h1 align="center" style="color:#F8D866;">Hi 👋, I'm KOVVURI SURYA VENKATA REDDY</h1>
+<h3 align="center" style="color:white;">I'm a passionate web developer with expertise in Python, JavaScript, HTML, CSS, React, and Node.js. I enjoy building scalable web applications and crafting user-friendly interfaces.</h3>
 
+<!-- <hr style="height:0.5px;border-width:0;color:white;background-color:#F8D866"> -->
 
-## Profile Views
+<h3 style="color:#F8D866;">Profile Views</h3>
+<hr style="height:0.5px;border-width:0;color:white;background-color:#F8D866">
+<table>
+  <tr>
+    <th style="color:white;">Total Count</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/kovvurisuryavenkatareddy/"> 
+        <img src="https://komarev.com/ghpvc/?username=kovvurisuryavenkatareddy&style=for-the-badge&color=green"> 
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <table>
-    <tr>
-      <!-- <th>Profile Views</th> -->
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <td>
-         <a href="https://github.com/kovvurisuryavenkatareddy/"> <img src="https://komarev.com/ghpvc/?username=kovvurisuryavenkatareddy&style=for-the-badge&color=green"> </a>
-      </td>
-    </tr>
-  </table>
-
-- 🔭 I’m currently working on **Quiz Web Application**
+- 🔭 I’m currently working on **<span style="color:#F8D866;">LMS Web Application</span>**
 
 - 🌱 I’m currently learning **MongoDB, Express, React, Node.js**
 
@@ -30,8 +32,8 @@
 
 - ⚡ Fun fact: **I think I am funny**
 
-<h3 align="left">Connect with me:</h3>
-<hr style="height:0.5px;border-width:0;color:white;background-color:gray">
+<h3 align="left" style="color:#F8D866;">Connect with me:</h3>
+<hr style="height:0.5px;border-width:0;color:white;background-color:#F8D866">
 
 <p align="center">
   <a href="https://linkedin.com/in/surya-venkata-reddy-kovvuri-736861250/" target="blank">
@@ -48,12 +50,12 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<hr style="height:0.5px;border-width:0;color:white;background-color:gray">
+<h3 align="left" style="color:#F8D866;">Languages and Tools:</h3>
+<hr style="height:0.5px;border-width:0;color:white;background-color:#F8D866">
 <img src="https://skillicons.dev/icons?i=vscode,python,flask,opencv,github,html,css,js,react,mongodb,express,nodejs,postman"> 
 
-<h3 align="left">My GitHub Stats:</h3>
-<hr style="height:0.5px;border-width:0;color:white;background-color:gray">
+<h3 align="left" style="color:#F8D866;">My GitHub Stats:</h3>
+<hr style="height:0.5px;border-width:0;color:white;background-color:#F8D866">
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kovvurisuryavenkatareddy&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="kovvurisuryavenkatareddy GitHub Stats" />
 </p>
@@ -62,8 +64,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kovvurisuryavenkatareddy&theme=gruvbox&hide_border=true" alt="kovvurisuryavenkatareddy GitHub Streak" />
 </p>
 
-<h3 align="left">Top Repositories</h3>
-<hr style="height:0.5px;border-width:0;color:white;background-color:gray">
+<h3 align="left" style="color:#F8D866;">Top Repositories</h3>
+<hr style="height:0.5px;border-width:0;color:white;background-color:#F8D866">
 <p align="left">
   <a href="https://github.com/kovvurisuryavenkatareddy/Short-Term-Traffic-Flow-Prediction">
     <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kovvurisuryavenkatareddy&repo=Short-Term-Traffic-Flow-Prediction&theme=gruvbox&bg_color=151515&title_color=F8D866&hide_border=true" alt="Short-Term-Traffic-Flow-Prediction Repo" />
